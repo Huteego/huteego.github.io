@@ -1,8 +1,12 @@
-title: huteego.github.io
+title: Huteego
 description: Simple and Innovative
 google_analytics: 
 show_downloads: true
 theme: jekyll-text-theme
+text_skin: default
+highlight_theme: default
+lang: en
+timezone: Asia/Ho_Chi_Minh
 
 gems:
   - jekyll-mentions
