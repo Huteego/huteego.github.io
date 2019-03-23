@@ -2,7 +2,7 @@ title: huteego.github.io
 description: Simple and Innovative
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-text-theme
 
 gems:
   - jekyll-mentions
